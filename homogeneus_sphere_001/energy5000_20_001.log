@@ -1,0 +1,173 @@
+
+Hierarchical N-body code (theta scan)
+
+   nbody     dtime       eps     theta   usequad     dtout     tstop
+    5000   0.05000    0.0100      0.10     false   0.05000    1.0000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    16.0      10   3.018    6667  16892559   3592888   0.004
+
+       |T+U|        T       -U
+    2515822.50000  0.00000 2515822.50000
+
+	data output to file out_tree5000_20_001.out at time 0.000000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    16.0      11   2.774    6637  15867505   3966447   0.004
+
+       |T+U|        T       -U
+    2259769.50000 339009.06250 2598778.50000
+
+	data output to file out_tree5000_20_001.out at time 0.050000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      11   2.667    6662  14299123   4263146   0.004
+
+       |T+U|        T       -U
+    1292573.75000 1534320.50000 2826894.25000
+
+	data output to file out_tree5000_20_001.out at time 0.100000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    64.0      11   2.828    6466  15235680   3606574   0.004
+
+       |T+U|        T       -U
+    588098.00000 2745796.50000 3333894.50000
+
+	data output to file out_tree5000_20_001.out at time 0.150000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    64.0      12   2.969    6861  16316637   3099232   0.004
+
+       |T+U|        T       -U
+    60672.50000 4950240.00000 4889567.50000
+
+	data output to file out_tree5000_20_001.out at time 0.200000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   128.0      13   3.050    7197  17921230   2049290   0.004
+
+       |T+U|        T       -U
+    2178826.00000 12632409.00000 10453583.00000
+
+	data output to file out_tree5000_20_001.out at time 0.250000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   128.0      11   3.043    7147  18184972   2585250   0.004
+
+       |T+U|        T       -U
+    42566688.00000 44415244.00000 1848554.25000
+
+	data output to file out_tree5000_20_001.out at time 0.300000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   128.0      10   3.010    7085  18105353   2710130   0.004
+
+       |T+U|        T       -U
+    42348248.00000 43290968.00000 942720.75000
+
+	data output to file out_tree5000_20_001.out at time 0.350000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   128.0      10   2.979    7064  18044457   2745605   0.004
+
+       |T+U|        T       -U
+    42324012.00000 42960128.00000 636117.50000
+
+	data output to file out_tree5000_20_001.out at time 0.400000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   256.0      11   2.964    7128  17893861   2826022   0.004
+
+       |T+U|        T       -U
+    42318008.00000 42798828.00000 480820.09375
+
+	data output to file out_tree5000_20_001.out at time 0.450000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   256.0      10   2.981    7106  17976240   2766248   0.004
+
+       |T+U|        T       -U
+    42316100.00000 42702872.00000 386772.09375
+
+	data output to file out_tree5000_20_001.out at time 0.500000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   256.0       9   2.971    7076  17982386   2744959   0.005
+
+       |T+U|        T       -U
+    42315080.00000 42638684.00000 323605.53125
+
+	data output to file out_tree5000_20_001.out at time 0.550000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   256.0       9   2.960    7098  17763990   2825039   0.004
+
+       |T+U|        T       -U
+    42314532.00000 42592788.00000 278254.34375
+
+	data output to file out_tree5000_20_001.out at time 0.600000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      11   2.932    7141  17714187   2881251   0.004
+
+       |T+U|        T       -U
+    42314180.00000 42558272.00000 244093.64062
+
+	data output to file out_tree5000_20_001.out at time 0.650000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      10   2.987    7098  17963761   2769833   0.004
+
+       |T+U|        T       -U
+    42314352.00000 42531744.00000 217390.29688
+
+	data output to file out_tree5000_20_001.out at time 0.700000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      10   2.980    7076  17961871   2780347   0.004
+
+       |T+U|        T       -U
+    42314124.00000 42510112.00000 195986.98438
+
+	data output to file out_tree5000_20_001.out at time 0.750000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      11   2.946    7101  18051959   2754203   0.004
+
+       |T+U|        T       -U
+    42314120.00000 42492556.00000 178437.42188
+
+	data output to file out_tree5000_20_001.out at time 0.800000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      11   2.932    7114  17952255   2775516   0.004
+
+       |T+U|        T       -U
+    42314012.00000 42477796.00000 163783.07812
+
+	data output to file out_tree5000_20_001.out at time 0.850000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      11   2.932    7095  17896845   2765272   0.005
+
+       |T+U|        T       -U
+    42314084.00000 42465428.00000 151342.10938
+
+	data output to file out_tree5000_20_001.out at time 0.900000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      10   2.944    7080  17762086   2829930   0.004
+
+       |T+U|        T       -U
+    42314092.00000 42454760.00000 140669.43750
+
+	data output to file out_tree5000_20_001.out at time 0.950000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  1024.0      12   2.952    7066  17885781   2762678   0.004
+
+       |T+U|        T       -U
+    42314028.00000 42445424.00000 131396.14062
+
+	data output to file out_tree5000_20_001.out at time 1.000000
