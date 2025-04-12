@@ -2,10 +2,10 @@
 Hierarchical N-body code (theta scan)
 
    nbody     dtime       eps     theta   usequad     dtout     tstop
-    5000   0.10000    0.1000      0.10     false   0.10000    5.0000
+    5000   0.10000    0.1000      0.10     false   0.10000   10.0000
 
 	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
-	   512.0      13   3.025    7227  18008652   2213963   0.009
+	   512.0      13   3.025    7227  18008652   2213963   0.004
 
        |T+U|        T       -U
     473.13638 490.12009 963.25647
@@ -13,7 +13,7 @@ Hierarchical N-body code (theta scan)
 	data output to file out_plum_eq_5000_01.out at time 0.000000
 
 	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
-	   512.0      13   3.044    7250  18145338   2159386   0.007
+	   512.0      13   3.044    7250  18145338   2159386   0.004
 
        |T+U|        T       -U
     472.93155 490.33871 963.27026
@@ -45,7 +45,7 @@ Hierarchical N-body code (theta scan)
 	data output to file out_plum_eq_5000_01.out at time 0.400000
 
 	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
-	   512.0      14   3.017    7226  18051411   2212560   0.005
+	   512.0      14   3.017    7226  18051411   2212560   0.004
 
        |T+U|        T       -U
     472.70084 488.29105 960.99188
@@ -213,7 +213,7 @@ Hierarchical N-body code (theta scan)
 	data output to file out_plum_eq_5000_01.out at time 2.500000
 
 	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
-	   512.0      13   3.015    7251  18139974   2213447   0.004
+	   512.0      13   3.015    7251  18139974   2213447   0.006
 
        |T+U|        T       -U
     472.30524 467.45618 939.76141
@@ -221,7 +221,7 @@ Hierarchical N-body code (theta scan)
 	data output to file out_plum_eq_5000_01.out at time 2.600000
 
 	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
-	   512.0      13   3.030    7222  18119756   2229201   0.004
+	   512.0      13   3.030    7222  18119756   2229201   0.005
 
        |T+U|        T       -U
     472.33044 466.89172 939.22217
@@ -229,7 +229,7 @@ Hierarchical N-body code (theta scan)
 	data output to file out_plum_eq_5000_01.out at time 2.700000
 
 	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
-	   512.0      14   3.037    7219  18226342   2180867   0.004
+	   512.0      14   3.037    7219  18226342   2180867   0.005
 
        |T+U|        T       -U
     472.25549 466.52698 938.78247
@@ -397,7 +397,7 @@ Hierarchical N-body code (theta scan)
 	data output to file out_plum_eq_5000_01.out at time 4.799998
 
 	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
-	   512.0      13   3.056    7236  18157003   2182715   0.004
+	   512.0      13   3.056    7236  18157003   2182715   0.005
 
        |T+U|        T       -U
     472.17181 463.69409 935.86591
@@ -411,3 +411,403 @@ Hierarchical N-body code (theta scan)
     472.25040 463.77573 936.02612
 
 	data output to file out_plum_eq_5000_01.out at time 4.999998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   3.056    7194  18128524   2175911   0.004
+
+       |T+U|        T       -U
+    472.38644 464.05905 936.44550
+
+	data output to file out_plum_eq_5000_01.out at time 5.099998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   3.058    7202  18115236   2196064   0.004
+
+       |T+U|        T       -U
+    472.43042 464.47040 936.90082
+
+	data output to file out_plum_eq_5000_01.out at time 5.199997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   3.042    7187  18008879   2240912   0.004
+
+       |T+U|        T       -U
+    472.41583 464.97504 937.39087
+
+	data output to file out_plum_eq_5000_01.out at time 5.299997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      14   3.056    7202  18156517   2189720   0.004
+
+       |T+U|        T       -U
+    472.31430 465.48203 937.79633
+
+	data output to file out_plum_eq_5000_01.out at time 5.399997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   3.052    7197  18062728   2211834   0.004
+
+       |T+U|        T       -U
+    472.29318 465.83487 938.12805
+
+	data output to file out_plum_eq_5000_01.out at time 5.499997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   3.057    7178  18077137   2196617   0.004
+
+       |T+U|        T       -U
+    472.26816 465.87674 938.14490
+
+	data output to file out_plum_eq_5000_01.out at time 5.599997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      14   3.046    7168  18079533   2206129   0.004
+
+       |T+U|        T       -U
+    472.24631 465.57291 937.81921
+
+	data output to file out_plum_eq_5000_01.out at time 5.699997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      16   3.036    7177  18084407   2205067   0.004
+
+       |T+U|        T       -U
+    472.23920 465.20593 937.44513
+
+	data output to file out_plum_eq_5000_01.out at time 5.799997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      14   3.017    7243  18049632   2228446   0.004
+
+       |T+U|        T       -U
+    472.08502 464.83783 936.92285
+
+	data output to file out_plum_eq_5000_01.out at time 5.899997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      14   3.042    7238  18183972   2158337   0.004
+
+       |T+U|        T       -U
+    472.04175 464.43524 936.47699
+
+	data output to file out_plum_eq_5000_01.out at time 5.999997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   3.033    7228  18066511   2209391   0.004
+
+       |T+U|        T       -U
+    471.99500 464.14319 936.13818
+
+	data output to file out_plum_eq_5000_01.out at time 6.099997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   2.996    7236  17984337   2260444   0.004
+
+       |T+U|        T       -U
+    471.89362 464.09741 935.99103
+
+	data output to file out_plum_eq_5000_01.out at time 6.199996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   3.026    7210  18014946   2221941   0.004
+
+       |T+U|        T       -U
+    471.90942 464.27625 936.18567
+
+	data output to file out_plum_eq_5000_01.out at time 6.299996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      15   3.006    7235  17955410   2277976   0.004
+
+       |T+U|        T       -U
+    471.75577 464.58133 936.33710
+
+	data output to file out_plum_eq_5000_01.out at time 6.399996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   3.051    7194  18084517   2195729   0.004
+
+       |T+U|        T       -U
+    471.81564 465.03079 936.84644
+
+	data output to file out_plum_eq_5000_01.out at time 6.499996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      16   3.046    7196  18160314   2167912   0.004
+
+       |T+U|        T       -U
+    471.72906 465.52209 937.25116
+
+	data output to file out_plum_eq_5000_01.out at time 6.599996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   2.994    7276  17965495   2281717   0.004
+
+       |T+U|        T       -U
+    471.61710 465.96841 937.58551
+
+	data output to file out_plum_eq_5000_01.out at time 6.699996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   3.014    7209  17966746   2246657   0.004
+
+       |T+U|        T       -U
+    471.43204 466.69400 938.12604
+
+	data output to file out_plum_eq_5000_01.out at time 6.799996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      14   3.033    7196  18114534   2179339   0.004
+
+       |T+U|        T       -U
+    471.35263 467.56827 938.92090
+
+	data output to file out_plum_eq_5000_01.out at time 6.899996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      14   3.055    7220  18135966   2160328   0.004
+
+       |T+U|        T       -U
+    471.33960 468.14905 939.48865
+
+	data output to file out_plum_eq_5000_01.out at time 6.999996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   3.048    7203  18058102   2187863   0.004
+
+       |T+U|        T       -U
+    471.23679 468.60355 939.84033
+
+	data output to file out_plum_eq_5000_01.out at time 7.099996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   3.001    7235  17962141   2261874   0.004
+
+       |T+U|        T       -U
+    471.19449 468.94766 940.14215
+
+	data output to file out_plum_eq_5000_01.out at time 7.199996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   3.047    7247  18102272   2183860   0.004
+
+       |T+U|        T       -U
+    471.05475 469.21362 940.26837
+
+	data output to file out_plum_eq_5000_01.out at time 7.299995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   3.058    7194  18130512   2166395   0.004
+
+       |T+U|        T       -U
+    470.99231 469.67474 940.66705
+
+	data output to file out_plum_eq_5000_01.out at time 7.399995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   3.031    7229  17918663   2262053   0.004
+
+       |T+U|        T       -U
+    470.85696 470.33444 941.19141
+
+	data output to file out_plum_eq_5000_01.out at time 7.499995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   3.018    7210  17903847   2272441   0.004
+
+       |T+U|        T       -U
+    470.91629 470.91208 941.82837
+
+	data output to file out_plum_eq_5000_01.out at time 7.599995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   3.070    7205  18165886   2150510   0.004
+
+       |T+U|        T       -U
+    470.80124 471.37424 942.17548
+
+	data output to file out_plum_eq_5000_01.out at time 7.699995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      15   3.086    7172  18216504   2110330   0.004
+
+       |T+U|        T       -U
+    470.86664 471.90875 942.77539
+
+	data output to file out_plum_eq_5000_01.out at time 7.799995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      14   3.034    7225  18011372   2226588   0.004
+
+       |T+U|        T       -U
+    470.79337 472.30203 943.09540
+
+	data output to file out_plum_eq_5000_01.out at time 7.899995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   3.020    7235  18046663   2216305   0.004
+
+       |T+U|        T       -U
+    470.72620 472.47845 943.20465
+
+	data output to file out_plum_eq_5000_01.out at time 7.999995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      14   3.023    7219  17956866   2246073   0.004
+
+       |T+U|        T       -U
+    470.61884 472.42310 943.04193
+
+	data output to file out_plum_eq_5000_01.out at time 8.099995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   3.017    7211  18022011   2214131   0.004
+
+       |T+U|        T       -U
+    470.52408 471.95865 942.48273
+
+	data output to file out_plum_eq_5000_01.out at time 8.199995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   3.059    7227  18160342   2153199   0.004
+
+       |T+U|        T       -U
+    470.51340 471.26901 941.78241
+
+	data output to file out_plum_eq_5000_01.out at time 8.299995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      12   3.056    7251  18234165   2134267   0.004
+
+       |T+U|        T       -U
+    470.48651 470.58252 941.06903
+
+	data output to file out_plum_eq_5000_01.out at time 8.399996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      15   3.048    7216  18093046   2186570   0.004
+
+       |T+U|        T       -U
+    470.37866 469.78314 940.16180
+
+	data output to file out_plum_eq_5000_01.out at time 8.499996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      15   3.049    7237  18144183   2174330   0.004
+
+       |T+U|        T       -U
+    470.35028 468.93939 939.28967
+
+	data output to file out_plum_eq_5000_01.out at time 8.599997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   3.013    7238  17987278   2257604   0.004
+
+       |T+U|        T       -U
+    470.29984 468.21317 938.51300
+
+	data output to file out_plum_eq_5000_01.out at time 8.699997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      14   3.024    7233  17992110   2232262   0.004
+
+       |T+U|        T       -U
+    470.32465 467.44672 937.77136
+
+	data output to file out_plum_eq_5000_01.out at time 8.799997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      14   3.029    7211  17985706   2239662   0.004
+
+       |T+U|        T       -U
+    470.29752 466.79898 937.09650
+
+	data output to file out_plum_eq_5000_01.out at time 8.899998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      15   3.004    7224  17843562   2305061   0.004
+
+       |T+U|        T       -U
+    470.27890 466.35367 936.63257
+
+	data output to file out_plum_eq_5000_01.out at time 8.999998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   3.056    7190  18147804   2167361   0.004
+
+       |T+U|        T       -U
+    470.23065 465.75824 935.98889
+
+	data output to file out_plum_eq_5000_01.out at time 9.099998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      14   3.028    7211  18054100   2209561   0.004
+
+       |T+U|        T       -U
+    470.32831 465.03412 935.36243
+
+	data output to file out_plum_eq_5000_01.out at time 9.199999
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      15   3.032    7241  18046818   2218815   0.004
+
+       |T+U|        T       -U
+    470.25516 464.39163 934.64679
+
+	data output to file out_plum_eq_5000_01.out at time 9.299999
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   3.025    7251  18080184   2216722   0.004
+
+       |T+U|        T       -U
+    470.17099 463.61844 933.78943
+
+	data output to file out_plum_eq_5000_01.out at time 9.400000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      14   3.092    7162  18245436   2119026   0.004
+
+       |T+U|        T       -U
+    470.15915 462.66525 932.82440
+
+	data output to file out_plum_eq_5000_01.out at time 9.500000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   3.005    7231  17885615   2298479   0.004
+
+       |T+U|        T       -U
+    470.12921 461.70673 931.83594
+
+	data output to file out_plum_eq_5000_01.out at time 9.600000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      15   3.021    7193  17980238   2256238   0.004
+
+       |T+U|        T       -U
+    469.98962 460.64630 930.63593
+
+	data output to file out_plum_eq_5000_01.out at time 9.700001
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      14   3.014    7240  18033524   2229893   0.004
+
+       |T+U|        T       -U
+    469.92523 459.44116 929.36639
+
+	data output to file out_plum_eq_5000_01.out at time 9.800001
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   3.011    7282  18024885   2246602   0.004
+
+       |T+U|        T       -U
+    469.89285 458.36404 928.25690
+
+	data output to file out_plum_eq_5000_01.out at time 9.900002
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   3.030    7218  18061511   2223430   0.004
+
+       |T+U|        T       -U
+    469.74268 457.46735 927.21002
+
+	data output to file out_plum_eq_5000_01.out at time 10.000002
