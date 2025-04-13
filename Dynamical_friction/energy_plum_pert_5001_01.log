@@ -1,0 +1,813 @@
+
+Hierarchical N-body code (theta scan)
+
+   nbody     dtime       eps     theta   usequad     dtout     tstop
+    5001   0.10000    0.1000      0.10     false   0.10000   10.0000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   3.070    7244  18364722   2149791   0.005
+
+       |T+U|        T       -U
+    5665.61182 1191.42151 6857.03320
+
+	data output to file out_plum_pert_5001_01.out at time 0.000000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      14   3.028    7203  18105026   2227809   0.004
+
+       |T+U|        T       -U
+    3226.84473 10637.12012 7410.27539
+
+	data output to file out_plum_pert_5001_01.out at time 0.100000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      13   3.057    7188  18054079   2151503   0.004
+
+       |T+U|        T       -U
+    38048.91797 46100.58594 8051.66943
+
+	data output to file out_plum_pert_5001_01.out at time 0.200000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      14   3.040    7169  17764494   2175330   0.004
+
+       |T+U|        T       -U
+    72446.05469 81214.99219 8768.93457
+
+	data output to file out_plum_pert_5001_01.out at time 0.300000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	   512.0      14   3.030    7178  17615002   2127263   0.004
+
+       |T+U|        T       -U
+    111839.14062 120699.83594 8860.69922
+
+	data output to file out_plum_pert_5001_01.out at time 0.400000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  1024.0      14   3.006    7219  17283704   2132559   0.004
+
+       |T+U|        T       -U
+    144460.21875 153455.26562 8995.04688
+
+	data output to file out_plum_pert_5001_01.out at time 0.500000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  1024.0      15   3.027    7222  17255539   2029202   0.004
+
+       |T+U|        T       -U
+    181098.57812 189566.04688 8467.47559
+
+	data output to file out_plum_pert_5001_01.out at time 0.600000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  1024.0      15   3.049    7255  17177489   1927468   0.004
+
+       |T+U|        T       -U
+    208585.07812 216900.90625 8315.82520
+
+	data output to file out_plum_pert_5001_01.out at time 0.700000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  2048.0      16   3.015    7267  16994161   1942160   0.004
+
+       |T+U|        T       -U
+    244651.75000 252276.37500 7624.62549
+
+	data output to file out_plum_pert_5001_01.out at time 0.800000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  2048.0      15   3.053    7265  17135160   1812264   0.004
+
+       |T+U|        T       -U
+    277808.06250 284612.21875 6804.17188
+
+	data output to file out_plum_pert_5001_01.out at time 0.900000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  2048.0      16   2.987    7318  16905526   1875827   0.004
+
+       |T+U|        T       -U
+    299924.43750 306121.40625 6196.95605
+
+	data output to file out_plum_pert_5001_01.out at time 1.000000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  2048.0      16   3.019    7302  16993474   1810174   0.004
+
+       |T+U|        T       -U
+    308278.43750 313809.75000 5531.32715
+
+	data output to file out_plum_pert_5001_01.out at time 1.100000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  2048.0      15   3.050    7276  17073176   1714409   0.004
+
+       |T+U|        T       -U
+    315206.25000 320352.34375 5146.09180
+
+	data output to file out_plum_pert_5001_01.out at time 1.200000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  2048.0      15   3.025    7304  16917941   1743355   0.003
+
+       |T+U|        T       -U
+    326877.78125 331572.50000 4694.70410
+
+	data output to file out_plum_pert_5001_01.out at time 1.300000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  4096.0      15   3.029    7298  16877635   1723987   0.004
+
+       |T+U|        T       -U
+    337137.81250 341509.78125 4371.98291
+
+	data output to file out_plum_pert_5001_01.out at time 1.400000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  4096.0      17   3.033    7300  16920320   1676154   0.003
+
+       |T+U|        T       -U
+    341375.46875 345361.28125 3985.80762
+
+	data output to file out_plum_pert_5001_01.out at time 1.500000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  4096.0      15   3.058    7271  16882829   1674482   0.004
+
+       |T+U|        T       -U
+    347669.21875 351388.37500 3719.15869
+
+	data output to file out_plum_pert_5001_01.out at time 1.600000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  4096.0      15   3.075    7278  16945840   1611387   0.004
+
+       |T+U|        T       -U
+    350164.68750 353595.25000 3430.55688
+
+	data output to file out_plum_pert_5001_01.out at time 1.700000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  4096.0      15   3.046    7303  16864032   1639444   0.004
+
+       |T+U|        T       -U
+    351308.00000 354577.93750 3269.95288
+
+	data output to file out_plum_pert_5001_01.out at time 1.800000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  4096.0      15   3.064    7287  16855043   1613403   0.004
+
+       |T+U|        T       -U
+    353005.03125 356135.46875 3130.43726
+
+	data output to file out_plum_pert_5001_01.out at time 1.900000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  4096.0      15   3.078    7275  16946081   1558112   0.004
+
+       |T+U|        T       -U
+    355474.18750 358436.28125 2962.08691
+
+	data output to file out_plum_pert_5001_01.out at time 2.000000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  4096.0      15   3.042    7284  16789139   1627440   0.004
+
+       |T+U|        T       -U
+    358124.46875 360906.21875 2781.75220
+
+	data output to file out_plum_pert_5001_01.out at time 2.100000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  4096.0      15   3.075    7278  16865680   1566291   0.003
+
+       |T+U|        T       -U
+    358797.25000 361437.62500 2640.36548
+
+	data output to file out_plum_pert_5001_01.out at time 2.200000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  4096.0      15   3.054    7273  16772599   1601162   0.003
+
+       |T+U|        T       -U
+    359389.18750 361938.68750 2549.50977
+
+	data output to file out_plum_pert_5001_01.out at time 2.300000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  4096.0      15   3.051    7273  16772625   1590495   0.004
+
+       |T+U|        T       -U
+    360249.65625 362719.46875 2469.81396
+
+	data output to file out_plum_pert_5001_01.out at time 2.400000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  4096.0      15   3.075    7249  16690413   1597817   0.004
+
+       |T+U|        T       -U
+    361105.65625 363525.90625 2420.24316
+
+	data output to file out_plum_pert_5001_01.out at time 2.500000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  8192.0      16   3.017    7329  16621815   1625379   0.004
+
+       |T+U|        T       -U
+    361819.78125 364103.00000 2283.21631
+
+	data output to file out_plum_pert_5001_01.out at time 2.600000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  8192.0      15   3.010    7320  16614248   1636769   0.004
+
+       |T+U|        T       -U
+    362021.78125 364252.18750 2230.39453
+
+	data output to file out_plum_pert_5001_01.out at time 2.700000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  8192.0      16   3.032    7331  16706837   1564311   0.004
+
+       |T+U|        T       -U
+    362375.84375 364548.56250 2172.73193
+
+	data output to file out_plum_pert_5001_01.out at time 2.799999
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  8192.0      15   3.039    7300  16667898   1579752   0.004
+
+       |T+U|        T       -U
+    364373.03125 366482.21875 2109.18872
+
+	data output to file out_plum_pert_5001_01.out at time 2.899999
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  8192.0      15   3.025    7324  16677028   1583787   0.004
+
+       |T+U|        T       -U
+    369172.34375 371154.18750 1981.83264
+
+	data output to file out_plum_pert_5001_01.out at time 2.999999
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  8192.0      16   3.057    7307  16737526   1534116   0.004
+
+       |T+U|        T       -U
+    369595.03125 371559.50000 1964.46716
+
+	data output to file out_plum_pert_5001_01.out at time 3.099999
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  8192.0      16   3.075    7280  16740699   1515052   0.004
+
+       |T+U|        T       -U
+    369878.28125 371815.78125 1937.51367
+
+	data output to file out_plum_pert_5001_01.out at time 3.199999
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  8192.0      18   3.019    7298  16554655   1589388   0.003
+
+       |T+U|        T       -U
+    370291.53125 372202.40625 1910.87158
+
+	data output to file out_plum_pert_5001_01.out at time 3.299999
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  8192.0      16   3.015    7305  16505720   1617180   0.004
+
+       |T+U|        T       -U
+    370926.00000 372772.71875 1846.70764
+
+	data output to file out_plum_pert_5001_01.out at time 3.399999
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  8192.0      15   3.052    7281  16624948   1556728   0.003
+
+       |T+U|        T       -U
+    371311.25000 373119.75000 1808.48560
+
+	data output to file out_plum_pert_5001_01.out at time 3.499999
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  8192.0      16   3.037    7327  16683960   1527736   0.003
+
+       |T+U|        T       -U
+    371768.25000 373510.53125 1742.27515
+
+	data output to file out_plum_pert_5001_01.out at time 3.599999
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  8192.0      15   3.017    7329  16555525   1588412   0.004
+
+       |T+U|        T       -U
+    371836.31250 373578.31250 1742.00830
+
+	data output to file out_plum_pert_5001_01.out at time 3.699999
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  8192.0      18   3.027    7311  16580251   1558997   0.003
+
+       |T+U|        T       -U
+    372017.93750 373714.56250 1696.61499
+
+	data output to file out_plum_pert_5001_01.out at time 3.799999
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  8192.0      16   3.021    7321  16520641   1589396   0.004
+
+       |T+U|        T       -U
+    372159.56250 373800.56250 1641.01062
+
+	data output to file out_plum_pert_5001_01.out at time 3.899998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  8192.0      15   3.054    7298  16557161   1549769   0.004
+
+       |T+U|        T       -U
+    372226.78125 373851.40625 1624.61047
+
+	data output to file out_plum_pert_5001_01.out at time 3.999998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  8192.0      15   3.047    7266  16515376   1566182   0.003
+
+       |T+U|        T       -U
+    372324.03125 373927.37500 1603.35400
+
+	data output to file out_plum_pert_5001_01.out at time 4.099998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  8192.0      16   3.020    7314  16530965   1567875   0.004
+
+       |T+U|        T       -U
+    372696.65625 374266.40625 1569.73486
+
+	data output to file out_plum_pert_5001_01.out at time 4.199998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  8192.0      15   3.064    7275  16606298   1531853   0.004
+
+       |T+U|        T       -U
+    373420.09375 374937.96875 1517.87366
+
+	data output to file out_plum_pert_5001_01.out at time 4.299998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  8192.0      16   3.057    7288  16641671   1516817   0.004
+
+       |T+U|        T       -U
+    374040.25000 375583.21875 1542.97314
+
+	data output to file out_plum_pert_5001_01.out at time 4.399998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  8192.0      15   3.049    7293  16604154   1532327   0.003
+
+       |T+U|        T       -U
+    375786.25000 377310.21875 1523.97266
+
+	data output to file out_plum_pert_5001_01.out at time 4.499998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  8192.0      17   3.020    7310  16551635   1549705   0.004
+
+       |T+U|        T       -U
+    375897.71875 377385.46875 1487.75586
+
+	data output to file out_plum_pert_5001_01.out at time 4.599998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  8192.0      15   3.008    7322  16442397   1595969   0.003
+
+       |T+U|        T       -U
+    375992.31250 377462.12500 1469.80249
+
+	data output to file out_plum_pert_5001_01.out at time 4.699998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	  8192.0      15   3.029    7324  16590364   1518481   0.003
+
+       |T+U|        T       -U
+    376102.46875 377549.25000 1446.78809
+
+	data output to file out_plum_pert_5001_01.out at time 4.799998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      17   3.021    7328  16563154   1538563   0.003
+
+       |T+U|        T       -U
+    376163.71875 377584.31250 1420.58752
+
+	data output to file out_plum_pert_5001_01.out at time 4.899998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      17   3.035    7312  16591716   1528568   0.003
+
+       |T+U|        T       -U
+    376207.75000 377595.56250 1387.81604
+
+	data output to file out_plum_pert_5001_01.out at time 4.999998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      17   3.041    7317  16611528   1510068   0.003
+
+       |T+U|        T       -U
+    376276.18750 377640.50000 1364.32581
+
+	data output to file out_plum_pert_5001_01.out at time 5.099998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      17   3.007    7340  16528851   1545777   0.003
+
+       |T+U|        T       -U
+    376368.56250 377710.81250 1342.25403
+
+	data output to file out_plum_pert_5001_01.out at time 5.199997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      17   2.998    7380  16535147   1538391   0.003
+
+       |T+U|        T       -U
+    376435.34375 377736.03125 1300.69788
+
+	data output to file out_plum_pert_5001_01.out at time 5.299997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.010    7336  16533334   1539590   0.003
+
+       |T+U|        T       -U
+    376439.37500 377736.25000 1296.88428
+
+	data output to file out_plum_pert_5001_01.out at time 5.399997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.031    7333  16638901   1491064   0.003
+
+       |T+U|        T       -U
+    376457.03125 377758.78125 1301.74646
+
+	data output to file out_plum_pert_5001_01.out at time 5.499997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.030    7335  16600086   1508566   0.003
+
+       |T+U|        T       -U
+    376491.56250 377795.28125 1303.72375
+
+	data output to file out_plum_pert_5001_01.out at time 5.599997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   2.986    7342  16479615   1563587   0.003
+
+       |T+U|        T       -U
+    376518.78125 377821.68750 1302.91870
+
+	data output to file out_plum_pert_5001_01.out at time 5.699997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.050    7299  16583798   1495607   0.003
+
+       |T+U|        T       -U
+    376569.34375 377858.81250 1289.47107
+
+	data output to file out_plum_pert_5001_01.out at time 5.799997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      17   3.034    7308  16519304   1518081   0.003
+
+       |T+U|        T       -U
+    376606.68750 377896.00000 1289.32288
+
+	data output to file out_plum_pert_5001_01.out at time 5.899997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.011    7328  16463588   1544691   0.003
+
+       |T+U|        T       -U
+    376703.56250 377986.87500 1283.31445
+
+	data output to file out_plum_pert_5001_01.out at time 5.999997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      17   3.026    7323  16503736   1530242   0.004
+
+       |T+U|        T       -U
+    376799.50000 378079.56250 1280.06946
+
+	data output to file out_plum_pert_5001_01.out at time 6.099997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      17   3.023    7315  16468390   1537547   0.003
+
+       |T+U|        T       -U
+    377007.25000 378277.15625 1269.90796
+
+	data output to file out_plum_pert_5001_01.out at time 6.199996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.043    7314  16555259   1494668   0.003
+
+       |T+U|        T       -U
+    377014.71875 378305.96875 1291.26331
+
+	data output to file out_plum_pert_5001_01.out at time 6.299996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.024    7324  16495958   1515505   0.003
+
+       |T+U|        T       -U
+    377217.71875 378518.09375 1300.37878
+
+	data output to file out_plum_pert_5001_01.out at time 6.399996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.010    7337  16478806   1530164   0.003
+
+       |T+U|        T       -U
+    377674.09375 378946.46875 1272.37891
+
+	data output to file out_plum_pert_5001_01.out at time 6.499996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.037    7332  16553261   1491716   0.003
+
+       |T+U|        T       -U
+    377695.50000 378948.96875 1253.47717
+
+	data output to file out_plum_pert_5001_01.out at time 6.599996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      17   3.023    7336  16511691   1510313   0.003
+
+       |T+U|        T       -U
+    377733.75000 378973.43750 1239.68140
+
+	data output to file out_plum_pert_5001_01.out at time 6.699996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.002    7342  16437450   1557597   0.003
+
+       |T+U|        T       -U
+    377746.18750 378974.09375 1227.90588
+
+	data output to file out_plum_pert_5001_01.out at time 6.799996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      17   3.032    7339  16585775   1468976   0.003
+
+       |T+U|        T       -U
+    377763.43750 378974.03125 1210.60547
+
+	data output to file out_plum_pert_5001_01.out at time 6.899996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.048    7309  16600458   1461559   0.003
+
+       |T+U|        T       -U
+    377809.40625 378996.15625 1186.75500
+
+	data output to file out_plum_pert_5001_01.out at time 6.999996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.043    7310  16544477   1491917   0.004
+
+       |T+U|        T       -U
+    377816.81250 378991.34375 1174.52551
+
+	data output to file out_plum_pert_5001_01.out at time 7.099996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.030    7320  16455314   1532174   0.003
+
+       |T+U|        T       -U
+    377839.21875 379013.53125 1174.32617
+
+	data output to file out_plum_pert_5001_01.out at time 7.199996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.037    7310  16476526   1528108   0.003
+
+       |T+U|        T       -U
+    377908.31250 379105.65625 1197.35901
+
+	data output to file out_plum_pert_5001_01.out at time 7.299995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      17   3.046    7291  16535840   1498829   0.003
+
+       |T+U|        T       -U
+    378065.12500 379240.59375 1175.46082
+
+	data output to file out_plum_pert_5001_01.out at time 7.399995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      17   3.037    7321  16536664   1499911   0.003
+
+       |T+U|        T       -U
+    378150.43750 379321.71875 1171.29150
+
+	data output to file out_plum_pert_5001_01.out at time 7.499995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.053    7296  16553442   1485248   0.003
+
+       |T+U|        T       -U
+    378184.34375 379351.50000 1167.15808
+
+	data output to file out_plum_pert_5001_01.out at time 7.599995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.074    7269  16613586   1450967   0.003
+
+       |T+U|        T       -U
+    378226.84375 379374.03125 1147.18066
+
+	data output to file out_plum_pert_5001_01.out at time 7.699995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      17   3.049    7271  16519797   1494549   0.003
+
+       |T+U|        T       -U
+    378233.75000 379364.62500 1130.86243
+
+	data output to file out_plum_pert_5001_01.out at time 7.799995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.053    7280  16548412   1484999   0.003
+
+       |T+U|        T       -U
+    378235.50000 379359.06250 1123.56177
+
+	data output to file out_plum_pert_5001_01.out at time 7.899995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.073    7293  16659943   1428260   0.003
+
+       |T+U|        T       -U
+    378283.06250 379381.87500 1098.82483
+
+	data output to file out_plum_pert_5001_01.out at time 7.999995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.068    7290  16647463   1437847   0.003
+
+       |T+U|        T       -U
+    378287.34375 379388.43750 1101.09802
+
+	data output to file out_plum_pert_5001_01.out at time 8.099995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.015    7324  16501979   1506203   0.003
+
+       |T+U|        T       -U
+    378319.56250 379415.75000 1096.19775
+
+	data output to file out_plum_pert_5001_01.out at time 8.199995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      17   3.057    7275  16522319   1485534   0.003
+
+       |T+U|        T       -U
+    378344.12500 379427.59375 1083.47510
+
+	data output to file out_plum_pert_5001_01.out at time 8.299995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.076    7268  16533108   1479543   0.003
+
+       |T+U|        T       -U
+    378348.12500 379432.40625 1084.28101
+
+	data output to file out_plum_pert_5001_01.out at time 8.399996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.076    7281  16573038   1453058   0.003
+
+       |T+U|        T       -U
+    378373.87500 379472.53125 1098.65479
+
+	data output to file out_plum_pert_5001_01.out at time 8.499996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.063    7306  16606640   1441264   0.004
+
+       |T+U|        T       -U
+    378473.84375 379565.09375 1091.25806
+
+	data output to file out_plum_pert_5001_01.out at time 8.599997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.075    7297  16636496   1432962   0.003
+
+       |T+U|        T       -U
+    378688.65625 379779.12500 1090.47192
+
+	data output to file out_plum_pert_5001_01.out at time 8.699997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      17   3.052    7305  16566602   1468212   0.003
+
+       |T+U|        T       -U
+    379157.03125 380228.59375 1071.54785
+
+	data output to file out_plum_pert_5001_01.out at time 8.799997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.058    7289  16518509   1481358   0.003
+
+       |T+U|        T       -U
+    379178.68750 380227.90625 1049.22327
+
+	data output to file out_plum_pert_5001_01.out at time 8.899998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.030    7310  16502610   1504358   0.004
+
+       |T+U|        T       -U
+    379181.53125 380219.28125 1037.75720
+
+	data output to file out_plum_pert_5001_01.out at time 8.999998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.030    7316  16533109   1490339   0.003
+
+       |T+U|        T       -U
+    379200.75000 380240.43750 1039.68689
+
+	data output to file out_plum_pert_5001_01.out at time 9.099998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      15   3.046    7304  16555463   1465539   0.003
+
+       |T+U|        T       -U
+    379222.37500 380262.62500 1040.24463
+
+	data output to file out_plum_pert_5001_01.out at time 9.199999
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.047    7319  16595429   1439480   0.003
+
+       |T+U|        T       -U
+    379232.00000 380259.37500 1027.38965
+
+	data output to file out_plum_pert_5001_01.out at time 9.299999
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      18   3.035    7344  16603587   1438893   0.003
+
+       |T+U|        T       -U
+    379291.18750 380315.50000 1024.31653
+
+	data output to file out_plum_pert_5001_01.out at time 9.400000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 16384.0      16   3.026    7359  16571508   1458490   0.003
+
+       |T+U|        T       -U
+    379501.50000 380500.96875 999.46649
+
+	data output to file out_plum_pert_5001_01.out at time 9.500000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 32768.0      17   3.015    7344  16516227   1483585   0.003
+
+       |T+U|        T       -U
+    379508.84375 380500.46875 991.62238
+
+	data output to file out_plum_pert_5001_01.out at time 9.600000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 32768.0      17   3.019    7348  16553444   1463996   0.003
+
+       |T+U|        T       -U
+    379509.90625 380508.81250 998.91174
+
+	data output to file out_plum_pert_5001_01.out at time 9.700001
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 32768.0      18   3.037    7330  16566477   1459123   0.003
+
+       |T+U|        T       -U
+    379537.53125 380534.34375 996.80328
+
+	data output to file out_plum_pert_5001_01.out at time 9.800001
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 32768.0      17   2.997    7367  16505883   1490800   0.003
+
+       |T+U|        T       -U
+    379667.21875 380669.62500 1002.40558
+
+	data output to file out_plum_pert_5001_01.out at time 9.900002
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	 32768.0      16   3.028    7332  16561859   1455857   0.003
+
+       |T+U|        T       -U
+    380124.50000 381092.50000 967.98853
+
+	data output to file out_plum_pert_5001_01.out at time 10.000002
